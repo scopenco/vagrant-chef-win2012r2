@@ -1,4 +1,4 @@
-# Vagrant Windows 2012r2 Environment
+# Vagrant Windows 2012r2 Environment with Chef provisiover
 
 ### Desciprion
 
